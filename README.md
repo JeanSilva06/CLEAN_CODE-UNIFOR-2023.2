@@ -4,3 +4,5 @@ This repository was created to store samples and exercises related to clean code
 The topics are:
 
 - Significative names
+- Magic numbers
+- Functions with single responsability
